@@ -6,9 +6,9 @@
 @import url("https://codedotspectra.github.io/themes/core/settings-icons.css");
 
 :root {
-    --themeColor1: #2ae711;
+    --themeColor1: #26e615;
     --themeColor2: #5B86E5;
-    --themeColor3: #e20b0b;
+    --themeColor2: #c51717;
     --customFont: 'Roboto', sans-serif;
     --font-display: var(--customFont);
     --homeImage: url('https://limeshark.dev/img/bdi/n8h.png');
@@ -1563,7 +1563,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
 }
 
 .plugin-settings {
-    padding: 25px 30px
+    padding: 15px 20px
 }
 
 .noiseCancellationPopout-2-e5Xz {
@@ -2243,96 +2243,3 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
     background-repeat: var(--backgroundRepeat);
     background-size: var(--backgroundSize);
     height: 48px;
-    width: 48px;
-}
-    color: #1db954
-}
-
-.bf-toolbar::before {
-    background: var(--backgroundColor) !important
-}
-
-.bf-toolbar .format:hover {
-    background: linear-gradient(to right, var(--themeColor1), var(--themeColor2)) !important;
-    color: #fff !important
-}
-
-.wrapper-1_HaEi,
-.scroller-3X7KbA {
-    background: transparent !important
-}
-
-.childWrapper-1j_1ub .homeIcon-FuNwkv {
-    display: none
-}
-
-.container-2O1UgZ {
-    background-color: var(--backgroundColor);
-    border: none !important;
-}
-.focused-qp-W9B, .item-1BCeuB:hover {
-    background-color: var(--themeColor2);
-    color: #fff;
-}
-
-.container-6sXIoE {
-  border: none !important;
-}
-.circleIconButton-3lUBQk {
-    background-color: rgba(0, 0, 0, .5);
-    color: var(--themeColor2);
-}
-
-.avatar-3mTjvZ,
-.subscriptionsRedirectContainer-zD3U79,
-.notice-2OK8bw,
-.accountProfileCard-lbN7n-,
-.noItemsCard-5EOcCl {
-    background-color: rgba(0, 0, 0, .35) !important;
-}
-
-.fieldList-in8WkP,
-.background-3d_SjE {
-    background-color: transparent !important;
-}
-
-.side-2ur1Qk .separator-2wx7h6 {display: none !important;}
-#bd-settings-sidebar .ui-tab-bar-header, .side-2ur1Qk .header-2Kx1US {
-    width: 100%;
-}
-
-.container-2o3qEW {
-    background-color: transparent !important;
-}
-
-.circleIconButton-1VxDrg {
-    background-color: rgba(0,0,0,.25) !important;
-    color: var(--themeColor1) !important;
-}
-
-.header-3OsQeK {
-    box-shadow: none !important;
-}
-
-.folder-241Joy {
-    background-color: transparent !important;
-}
-.expandedFolderBackground-1kSAf6,
-.container-3EtAkD,
-.emptyCard-KDifrB {
-    background-color: rgba(0,0,0,.25) !important;
-}
-
-.tabBody-2dgbAs:before,
-.homeIcon-r0w4ny > * {
-    display: none !important;
-}
-.homeIcon-r0w4ny {
-    background-color: transparent !important;
-    background-image: var(--homeImage);
-    background-position: var(--backgroundPosition);
-    background-repeat: var(--backgroundRepeat);
-    background-size: var(--backgroundSize);
-    height: 48px;
-    width: 48px;
-}
