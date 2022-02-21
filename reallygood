@@ -8,6 +8,7 @@
 :root {
     --themeColor1: #36D1DC;
     --themeColor2: #5B86E5;
+    --themeColor3: #36D431;
     --customFont: 'Roboto', sans-serif;
     --font-display: var(--customFont);
     --homeImage: url('https://limeshark.dev/img/bdi/n8h.png');
